@@ -1,4 +1,4 @@
-# ![borb logo](https://github.com/jorisschellekens/borb/raw/master/readme_img/logo/borb_64.png) borb Google Colab Examples
+# ![borb logo](https://github.com/jorisschellekens/borb/raw/master/logo/borb_64.png) borb Google Colab Examples
 
 This repository contains some examples of using `borb` in google colab.
 These examples enable you to try out the features of `borb` without installing it on your system.
